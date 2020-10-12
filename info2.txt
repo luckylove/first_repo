@@ -1,3 +1,5 @@
 Adding info2
 
 we have seen how to use git checkout 
+
+Working on info 2
