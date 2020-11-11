@@ -1,1 +1,3 @@
 creating new file after merging the branch feature11
+
+Modifying file in the feature2 branch ok
