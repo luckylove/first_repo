@@ -1,0 +1,1 @@
+Adding new file in the feature2 branch which is later on merge to the feature1 branch
